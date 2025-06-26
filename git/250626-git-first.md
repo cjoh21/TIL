@@ -2,13 +2,15 @@
 
 ## Date
 2024년 6월 26일
+
 ## 목차
-```
-- [Google](https://google.com)
-- Git 기본 설정
-- 저장소 초기화 및 기본 작업
+
+- [Git이란](#git이란)
+- [Git 기본 설정](#git-기본-설정)
+- [기본명령어](#기본-명령어)
+- 
 - 원격 저장소 연동
-```
+
 ##  Git이란?
 
 Git은 **분산 버전 관리 시스템(DVCS)**으로, 코드 변경 사항을 추적하고 여러 사람이 협업할 수 있게 도와줍니다.
@@ -19,8 +21,6 @@ Git은 **분산 버전 관리 시스템(DVCS)**으로, 코드 변경 사항을 �
 - git config --global user.email "ohchangjo@gmail.com"
 - Git config --global core.editor "vim"
 - Git config --global core.pager "cat"
-
-## git bash
 
 ## 기본 명령어
 | 기능          | 명령어                            |
