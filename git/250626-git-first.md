@@ -36,4 +36,8 @@ Git은 **분산 버전 관리 시스템(DVCS)**으로, 코드 변경 사항을 �
 
 
 ## Git Local and Remote Repository
-![alt text](image.png)
+![alt text](image.png
+
+## .gitignore 파일 내용 자동 생성
+| .gitignore 파일 내용 자동 생성 | https://www.toptal.com/developers/gitignore/ |
+|--|--|
