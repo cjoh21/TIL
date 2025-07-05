@@ -19,12 +19,22 @@ Git은 **분산 버전 관리 시스템(DVCS)**으로, 코드 변경 사항을 �
 
 - git config --global user.name "cjoh"
 - git config --global user.email "ohchangjo@gmail.com"
+- git config --global core.editor "vscode"
+- git config --global core.editor "\"C:/Program Files/JetBrains/IntelliJ IDEA 2024.1/bin/idea.bat\""
 - Git config --global core.editor "vim"
 - Git config --global core.pager "cat"
 
+## Git 기본 기능
+| 기능 | 설명       |
+| -- |----------|
+| git add | 변경 사항 추적 |
+| git commit | 커밋       |
+| git push | 푸시       |
+| git pull | 풀 |
+
 ## 기본 명령어
 | 기능          | 명령어                            |
-| ----------- | ------------------------------ |
+| ----------- |--------------------------------|
 | Git 저장소 초기화 | `git init`                     |
 | 상태 확인       | `git status`                   |
 | 변경 사항 추적    | `git add .` 또는 `git add <파일명>` |
